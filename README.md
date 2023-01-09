@@ -11,4 +11,4 @@ La actividad ha sido realizada por **Lucas Rey Pitaluga**.
 
 ## Fichero del código fuente
 
-**src/pec2_dqn.ipynb**: este fichero contiene la carga de librerías, lanza el _scraper_, genera el _dataset_ requerido y el fichero _txt_ con los enlaces recopilados.
+**pec2_dqn.ipynb**: este fichero contiene la carga de librerías, lanza el _scraper_, genera el _dataset_ requerido y el fichero _txt_ con los enlaces recopilados.
